@@ -7,4 +7,4 @@ Three areas in Git:
 3. Repository History
 
 My notes:
-- (Add your first note here during Module 01)
+- The Three Trees in Git are the core mental model for how Git manages and tracks your project files. In this context, a "tree" simply refers to a collection of files and directories representing a specific snapshot of your project. 
